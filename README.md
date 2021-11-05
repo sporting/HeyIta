@@ -13,3 +13,5 @@ var _google_sheet_name = "YOUR GOOGLE SHEET NAME";
 //line token
 var _line_token = "YOUR LINE NOTIFY TOKEN";
 ```
+
+[HeyIta](https://ericapppool.coderbridge.io/2021/11/05/hey-ita/)
