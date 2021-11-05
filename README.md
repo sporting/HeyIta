@@ -1,5 +1,5 @@
 # HeyIta
-Ita is the name of my foreign worker. It is used to remind her on time when she has to complete any tasks.
+Ita is the name of the foreign worker who lives in my house. It is used to remind her on time when she has to complete any tasks.
 
 Before executing the application script, you must modify these parameters in the global.gs file.
 
