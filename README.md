@@ -4,7 +4,7 @@ Ita is the name of the foreign worker who lives in my house. It is used to remin
 This application is based on google app scripts platform.
 
 Google Sheet document content like this:
-![image](https://user-images.githubusercontent.com/6059266/140681771-b8de6adc-06ef-4081-9cce-7895c6362bd4.png)
+![image](https://user-images.githubusercontent.com/6059266/140682037-4ca27a9d-8da2-4747-9294-9ffb6a6080a7.png)
 
 Before executing the application script, you must modify these parameters in the global.gs file.
 
