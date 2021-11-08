@@ -9,7 +9,13 @@ function doJob() {
     let mins = row[2]%100;
     let content = row[3];
     let last_remind_time = row[4];
+    let translate_lang=row[5];
 
+    if (translate_lang){
+      let translated_content = LanguageApp.translate(content,"",translate_lang);
+      content = content+" ("+translated_content+")";
+    }
+    
     try{
       if (remind_type && content){
         let cal_dt = null;
